@@ -1,1 +1,1 @@
-CropCreator
+CropCreator is a simple C# app I made to quickly add new crops to ExPetrum
